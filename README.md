@@ -1,6 +1,4 @@
-Here's a comprehensive and visually appealing README file for your Premier League Discord Bot:
 
----
 
 # Arrow - Premier League Discord Bot
 
