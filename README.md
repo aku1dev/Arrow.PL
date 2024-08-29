@@ -2,8 +2,6 @@
 
 # Arrow - Premier League Discord Bot
 
-![Discord Bot Status](https://img.shields.io/discord/1149347704380608543/online?label=Bot%20Status&style=for-the-badge)
-
 **Arrow** is a feature-rich Discord bot that provides real-time updates on Premier League matches, standings, top scorers, and more. Perfect for any football community, Arrow ensures you never miss a moment of the action!
 
 ## 🌟 Features
